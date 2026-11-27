@@ -7,11 +7,11 @@
 
 ## Descripción
 
-Portafolio web personal orientado a presentar mi perfil como desarrollador web, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
+Portafolio web personal orientado a presentar mi perfil como desarrollador de aplicaciones multiplataforma, mis habilidades técnicas y mis proyectos. Cuenta con una interfaz de temática oscura, diseño adaptable y elementos interactivos desarrollados con tecnologías web nativas.
 
-El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.
+*El proyecto no requiere frameworks, gestor de paquetes, base de datos ni proceso de compilación.*
 
-## Características
+### Características
 
 - Diseño responsive para ordenadores, tabletas y dispositivos móviles.
 - Menú de navegación adaptable y desplazamiento suave entre secciones.
